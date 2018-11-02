@@ -4,7 +4,7 @@
     Please use the official rendered version released here:
     http://docs.cilium.io
 
-.. _arch_guide:
+.. _concepts:
 
 ########
 Concepts
